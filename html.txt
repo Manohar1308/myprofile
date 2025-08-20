@@ -1,0 +1,6 @@
+<html>
+<head>
+<title>My Page</title>
+<body>hello sru</body>
+</head>
+</html>
